@@ -18,6 +18,7 @@
  * Atto text editor integration version file.
  *
  * @package    atto_etitle
+ * @copyright  2017 Glendon, York University
  * @copyright  2013 Damyon Wiese  <damyon@moodle.com>
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
@@ -27,7 +28,7 @@ defined('MOODLE_INTERNAL') || die();
 function atto_etitle_strings_for_js() {
     global $PAGE;
 
-    $PAGE->requires->strings_for_js(array('tab',
+    $PAGE->requires->strings_for_js(array('h2',
                                           'h3',
                                           'h4',
                                           'h5',

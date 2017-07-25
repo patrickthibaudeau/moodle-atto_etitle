@@ -18,12 +18,13 @@
  * Atto text editor integration version file.
  *
  * @package    atto_etitle
+ * @copyright  2017 Glendon, York University
  * @copyright  2013 Damyon Wiese  <damyon@moodle.com>
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
 defined('MOODLE_INTERNAL') || die();
 
-$plugin->version   = 2017072400;        // The current plugin version (Date: YYYYMMDDXX).
+$plugin->version   = 2017072500;        // The current plugin version (Date: YYYYMMDDXX).
 $plugin->requires  = 2017050500;        // Requires this Moodle version.
 $plugin->component = 'atto_etitle';  // Full name of the plugin (used for diagnostics).

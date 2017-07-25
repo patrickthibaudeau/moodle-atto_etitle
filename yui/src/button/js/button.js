@@ -15,6 +15,7 @@
 
 /*
  * @package    atto_etitle
+ * @copyright  2017 Glendon, York University
  * @copyright  2013 Damyon Wiese  <damyon@moodle.com>
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
@@ -34,8 +35,8 @@
 var component = 'atto_etitle',
     styles = [
         {
-            text: 'tab',
-            callbackArgs: '<tab>'
+            text: 'h2',
+            callbackArgs: '<h2>'
         },
         {
             text: 'h3',

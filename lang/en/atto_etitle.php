@@ -18,7 +18,7 @@
  * Strings for component 'atto_etitle', language 'en'.
  *
  * @package    atto_etitle
- * @copyright  2017 Glendon , York University
+ * @copyright  2017 Glendon, York University
  * @copyright  2013 Damyon Wiese  <damyon@moodle.com>
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
@@ -29,5 +29,5 @@ $string['h5'] = 'Heading (small)';
 $string['p'] = 'Paragraph';
 $string['pluginname'] = 'Enhanced Paragraph styles';
 $string['pre'] = 'Pre-formatted';
-$string['tab'] = 'Tab';
+$string['h2'] = 'Tab';
 $string['title'] = 'Paragraph styles';
